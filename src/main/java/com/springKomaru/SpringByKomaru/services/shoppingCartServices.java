@@ -1,4 +1,5 @@
 package com.springKomaru.SpringByKomaru.services;
+// Комару.
 
 import com.springKomaru.SpringByKomaru.ShoppingCart;
 import org.springframework.stereotype.Service;
